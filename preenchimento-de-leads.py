@@ -95,4 +95,4 @@ if __name__ == "__main__":
         limparFormulario()
         inserirDados(base_para_preenchimento)
     except KeyboardInterrupt:
-        print("Você parou a execução do programa, por favor inicie novamente")
+        print("Você parou a execução do programa, por favor inicie novamente") 
